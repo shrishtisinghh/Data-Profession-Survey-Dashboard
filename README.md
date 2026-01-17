@@ -9,15 +9,14 @@ This Power BI dashboard analyzes professional data to identify trends, distribut
 The goal of this project is to demonstrate data cleaning, modeling, visualization, and storytelling skills using Power BI.
 
 ## 📂 Dataset Details
-- Source: (Kaggle / Company data / Sample data / Mention source)
+- Source: Sample data
 - Format: CSV / Excel
-- Size: Number of rows and columns
 - Key columns:
   - Profession
   - Experience
   - Salary
   - Location
-  - Gender / Age (if applicable)
+  - Gender / Age 
 
 ## 🔧 Tools & Technologies Used
 - Power BI
@@ -40,7 +39,7 @@ The goal of this project is to demonstrate data cleaning, modeling, visualizatio
 - KPIs for quick insights
 
 ## 🔍 Key Insights
-- Professionals in **X field** have the highest average salary
+- Professionals in Data Scientist have the highest average salary
 - Salary increases significantly after **Y years** of experience
 - Certain professions dominate in specific locations
 - Clear gender/experience trends observed
